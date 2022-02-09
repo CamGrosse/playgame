@@ -52,7 +52,7 @@ namespace playgame
             Refresh();
             Thread.Sleep(200);
            
-            this.BackColor=Color.Green;
+            this.BackColor=Color.Red;
 
         }
 
